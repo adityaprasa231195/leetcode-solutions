@@ -8,13 +8,13 @@
 
 | Language | File | Date |
 |----------|------|------|
-| Rust | [solution.rs](solution.rs) | 2026-07-21 |
+| Python 3 | [solution.py](solution.py) | 2026-07-21 |
 
 ## Stats (latest submission)
 
 | Metric | Value |
 |--------|-------|
-| Memory  | 2316000 |
+| Memory  | 19508000 |
 
 ---
 
