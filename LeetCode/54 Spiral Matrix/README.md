@@ -8,13 +8,14 @@
 
 | Language | File | Date |
 |----------|------|------|
+| C | [solution.c](solution.c) | 2026-07-24 |
 | Rust | [solution.rs](solution.rs) | 2026-07-24 |
 
 ## Stats (latest submission)
 
 | Metric | Value |
 |--------|-------|
-| Memory  | 2160000 |
+| Memory  | 8984000 |
 
 ---
 
